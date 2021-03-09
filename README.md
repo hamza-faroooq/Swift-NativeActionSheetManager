@@ -44,7 +44,7 @@ ActionSheetManager.actionSheetDynamic(buttonTitlesArray: ["Take Picture", "Choos
 
 ```
 
-You can also pass your custom title and message strings as follows:
+* You can also pass your custom title and message strings as follows:
 
 ```swift
 
