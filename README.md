@@ -18,7 +18,7 @@ Do the following simple steps to add this Manager class in your project and pres
 
 First of all follow this link to add the [Swift-TopViewController](https://github.com/hamza-faroooq/Swift-TopViewController) in your project. Because this file is used to present this ActionSheet
 
-Then, simply download or copy [this](https://github.com/hamza-faroooq/Swift-NativeActionSheetManager/blob/main/ActionSheetManager.swift) code and place it in your project. (Click on the link, this will take you to the directory where extension is placed)
+Then, simply download or copy [this](https://github.com/hamza-faroooq/Swift-NativeActionSheetManager/blob/main/ActionSheetManager.swift) code and place it in your project. (Click on the link, this will take you to the directory where ActionSheetManager is placed)
 
 If you do not want to add [Swift-TopViewController](https://github.com/hamza-faroooq/Swift-TopViewController) in your project. then you can modify [ActionSheetManager](https://github.com/hamza-faroooq/Swift-NativeActionSheetManager/blob/main/ActionSheetManager.swift) on your on
 
